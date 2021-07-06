@@ -82,11 +82,11 @@ h3{
     border-radius: 10px;
 }
 #feedback{
-    border
+    margin-bottom: 50px;
 }
 .outline{
     border-radius: 5px;
-    border: 4px solid salmon;
+    border: 4px solid skyblue;
 }
 
 footer{
